@@ -9,6 +9,7 @@
  * http://www.codrops.com
  */
 (function() {
+	
 
 	var container = document.getElementById( 'cbp-vm' ),
 		optionSwitch = Array.prototype.slice.call( container.querySelectorAll( 'div.cbp-vm-options > a' ) );
